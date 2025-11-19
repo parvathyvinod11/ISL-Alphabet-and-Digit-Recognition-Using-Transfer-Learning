@@ -1,0 +1,22 @@
+# Core Python packages
+numpy
+pandas
+scikit-learn
+
+# Deep Learning frameworks (choose one or both)
+torch
+torchvision
+tensorflow
+
+# Image processing
+opencv-python
+Pillow
+
+# Visualization
+matplotlib
+seaborn
+
+# Model saving/loading
+joblib
+
+

@@ -1,4 +1,4 @@
-# ISL-Alphabet-and-Digit-Recognition-Using-Transfer-Learning-
+# ISL-Alphabet-and-Digit-Recognition-Using-Transfer-Learning
 Transfer learning–based Indian Sign Language (ISL) alphabet and digit recognition system using deep learning for accurate static gesture classification.
 
 This project focuses on **Indian Sign Language (ISL) Alphabet and Digit Recognition**
